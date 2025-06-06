@@ -1,1 +1,1 @@
-Clone Spotify : projet d’entraînement full-stack (Spring Boot + PostgreSQL + Auth0 en back, Angular + Bootstrap en front).
+Clone Spotify : projet d’entraînement full-stack (Java, Spring Boot, PostgreSQL et Auth0 en back, Angular et Bootstrap en front).
