@@ -69,11 +69,3 @@ cd spotify-clone-front
 npm install
 ng serve
 ```
-
----
-
-## 📜 Licence
-
-Projet open-source à but pédagogique.  
-Inspiré par les plateformes de streaming musical.
-
