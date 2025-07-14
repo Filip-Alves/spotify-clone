@@ -1,11 +1,11 @@
-# 🎵 Application de streaming musical fullstack style Spotify (Angular 17 + Spring Boot 3)
+# Application de streaming musical fullstack style Spotify (Angular 17 + Spring Boot 3)
 
 Ce projet est une application web de streaming musical.  
 Elle permet à un utilisateur de se connecter, parcourir une bibliothèque musicale, écouter des morceaux, les rechercher et gérer ses favoris — le tout via une interface moderne inspirée des standards actuels du streaming.
 
 ---
 
-## 🚀 Technologies utilisées
+## Technologies utilisées
 
 ### Frontend
 - Angular 17 (Standalone Components, Signals)
@@ -23,18 +23,18 @@ Elle permet à un utilisateur de se connecter, parcourir une bibliothèque music
 
 ---
 
-## 🧰 Fonctionnalités principales
+## Fonctionnalités principales
 
-- 🔐 Connexion sécurisée via Google
-- 🎧 Lecture de morceaux audio
-- 🔍 Recherche dans le catalogue
-- ❤️ Ajout/retrait de favoris
-- 📚 Affichage de sa bibliothèque personnelle
-- 🎨 Interface responsive avec mode sombre
+- Connexion sécurisée via Google
+- Lecture de morceaux audio
+- Recherche dans le catalogue
+- Ajout/retrait de favoris
+- Affichage de sa bibliothèque personnelle
+- Interface responsive avec mode sombre
 
 ---
 
-## 🗂️ Structure des projets
+## Structure des projets
 
 ### `spotify-clone-back`
 - API REST en Java (Spring Boot)
