@@ -1,7 +1,7 @@
 # Application de streaming musical fullstack style Spotify (Angular 17 + Spring Boot 3)
 
 Ce projet est une application web de streaming musical.  
-Elle permet à un utilisateur de se connecter, parcourir une bibliothèque musicale, écouter des morceaux, les rechercher et gérer ses favoris — le tout via une interface moderne inspirée des standards actuels du streaming.
+Elle permet à un utilisateur de se connecter, parcourir une bibliothèque musicale, écouter des morceaux, les rechercher et gérer ses favoris, le tout via une interface moderne inspirée des standards actuels du streaming.
 
 ---
 
