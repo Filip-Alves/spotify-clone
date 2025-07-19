@@ -15,6 +15,7 @@ Elle permet à un utilisateur de se connecter, parcourir une bibliothèque music
 - Appels API sécurisés
 
 ### Backend
+- Java 21
 - Spring Boot 3
 - PostgreSQL pour la base de données
 - Spring Data JPA + MapStruct
@@ -53,7 +54,7 @@ Elle permet à un utilisateur de se connecter, parcourir une bibliothèque music
 ## ⚙️ Lancer le projet localement
 
 ### Prérequis
-- Java 17
+- Java 21
 - Node.js 18+
 - PostgreSQL
 
